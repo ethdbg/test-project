@@ -8,7 +8,7 @@ module.exports = {
     debug: {
       host: 'localhost',
       port: 8546,
-      network_id: '*',
+      network_id: '1337',
       gas: 500000,
     }
   }
