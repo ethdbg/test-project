@@ -14,8 +14,8 @@ contract greeter is mortal {
     string greeting;
     
     /* This runs when the contract is executed */
-    function greeter(string _greeting) public {
-        greeting = _greeting;
+    function greeter() public {
+        greeting = 'Hello, this is a greeting';
     }
 
     /* Main function */
