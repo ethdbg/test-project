@@ -1,2 +1,2 @@
 # test-project
-A test project to try out the Ethereum Debugger
+A test project to test and try out the Ethereum Debugger
